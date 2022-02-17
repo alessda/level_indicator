@@ -14,6 +14,7 @@ HC-SR04 as ranging sensor and the Arduino Uno built-in LED as Level output.
 # Technical information
 - The project was developed under Matlab2020b and Simulink
 - The following addons were used: Matlab code, Simulink coder, Matlab support package for arduino, simulink support package for arduino, DSP system toolbox, symbolic math toolbox, stateflow, embedded coder, simulink report generator, simulink coverage, simulink requirements, simulink test, matlab report generator, mixed signal
+- All Trampoline RTOS related tests were performed under trampoline/examples/posix/periodic folder (inside the Trampoline folder)
 
 # Unzip and open the project in Matlab
 Due to github limits I uploaded two zip files containing all the related simulink and matlab files.
