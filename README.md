@@ -15,5 +15,6 @@ HC-SR04 as ranging sensor and the Arduino Uno built-in LED as Level output.
 - The project was developed under Matlab2020b and Simulink
 - The following addons were used: Matlab code, Simulink coder, Matlab support package for arduino, simulink support package for arduino, DSP system toolbox, symbolic math toolbox, stateflow, embedded coder, simulink report generator, simulink coverage, simulink requirements, simulink test, matlab report generator, mixed signal
 
-# Open the project in Matlab
+# Unzip and open the project in Matlab
+Due to github limits I uploaded two zip files containing all the related simulink and matlab files.
 Do not open each file individually, open the entire project in matlab clicking on the harness file inside the project folder.
