@@ -1,6 +1,5 @@
 # Level Indicator
- Level indicator (Model based software design assignement)
- The aim of this project is implementing a level indicator composed by and ultrasonic ranging sensor and a ranging estimator exchanging a trig and an echo response signal and a level  output (provided by the ranging estimator).
+ The aim of this project is implementing a level indicator composed by and ultrasonic ranging sensor and a ranging estimator exchanging a trig and an echo response signal and a level  output (provided by the ranging estimator) using the Model based software design approach in Matlab and simulink.
 The project is divided in several parts:
 1) Simulink project containing two referenced subsystems properly interconnected:
 - Plant: containing a model of the ultrasonic ranging sensor for simulation purposes only. 
