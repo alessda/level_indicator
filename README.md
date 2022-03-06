@@ -16,5 +16,5 @@ HC-SR04 as ranging sensor and the Arduino Uno built-in LED as Level output.
 - All Trampoline RTOS related tests were performed under trampoline/examples/posix/periodic folder (inside the Trampoline installation folder)
 
 # Unzip and open the project in Matlab
-Due to github limits I uploaded two zip files containing all the related simulink and matlab files.
+There are two zip files containing all the related simulink and matlab files.
 Do not open each file individually, open the entire project in matlab clicking on the harness file inside the project folder.
