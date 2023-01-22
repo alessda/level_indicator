@@ -1,10 +1,4 @@
 # Level Indicator
-<p align="center">
- <img alt="Languages" src="https://img.shields.io/badge/language-Matlab-orange">
- <img alt="Languages" src="https://img.shields.io/badge/language-C-black">
- <img alt="Version" src="https://img.shields.io/badge/version-1.0-green"/>
-  <img alt="Development" src="https://img.shields.io/badge/development-terminated-brightgreen"/>   
-</p>
  The aim of this project is implementing a level indicator composed by and ultrasonic ranging sensor and a ranging estimator exchanging a trig and an echo response signal and a level  output (provided by the ranging estimator) using the Model based software design approach in Matlab and simulink.
 The project is divided in several parts:
 1) Simulink project containing two referenced subsystems properly interconnected:
