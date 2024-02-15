@@ -1,6 +1,7 @@
 # Level Indicator
 <p align="center">
- <img alt="Languages" src="https://img.shields.io/badge/languages-C & Matlab-blue">
+ <img alt="Languages" src="https://img.shields.io/badge/language-C-blue">
+ <img alt="Languages" src="https://img.shields.io/badge/language-Matlab-blue">
  <img alt="Version" src="https://img.shields.io/badge/Matlab & Simulink->=2020b-blue"/>
  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue"/>
  <img alt="Development" src="https://img.shields.io/badge/development-terminated-brightgreen"/>   
